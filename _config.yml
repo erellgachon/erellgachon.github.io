@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Erell gachon
+title: Erell Gachon
 
 # Your name to show in the footer
 author: Erell Gachon
@@ -20,7 +20,7 @@ author: Erell Gachon
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Resume: "resume"
   Publications: "publications"
   Events: "events"
   Teaching: "teaching"
