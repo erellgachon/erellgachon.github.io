@@ -28,3 +28,8 @@ IMB, University of Bordeaux
 *May 2021-June 2021*\
 Supervisor : [Alice Pellet-Mary](https://apelletm.pages.math.cnrs.fr/page-perso/home.html)\
 IMB, University of Bordeaux.
+
+## Other
+
+- President of [Lambda](https://lambda.math.u-bordeaux.fr/en/), the association of PhD students in Mathematics in Bordeaux.
+- Representative of the maths PhD students on the doctoral school council.

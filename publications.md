@@ -4,7 +4,9 @@ title: Publications
 subtitle: 
 ---
 
-
+- *Scalable and consistent embedding of probability measures into Hilbert spaces via measure quantization.* Preprint\
+with [Elsa Cazelles](https://www.irit.fr/~Elsa.Cazelles/) and [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/)\
+[[arXiv]](https://arxiv.org/abs/2502.04907)
 - *Low dimensional representation of multi-patient flow cytometry datasets using optimal transport for minimal residual disease detection in leukemia.* Preprint\
 with [Elsa Cazelles](https://www.irit.fr/~Elsa.Cazelles/), [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/), Aguirre Mimoun and Jean-Philippe Vial\
 [[arXiv]](http://arxiv.org/abs/2407.17329) [[HAL]](https://hal.science/hal-04661639) [[code]](https://github.com/erellgachon/CytoLOT)
