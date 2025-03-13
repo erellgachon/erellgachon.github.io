@@ -4,6 +4,8 @@ title: Talks and events
 subtitle: 
 ---
 
+- Talk for the annual meeting of the PEPR PDE AI - March 2025\
+*Scalable and consistent embedding of probability measures into Hilbert spaces via measure quantization.*
 - Talk at [Transport optimal et ses applications en machine learning et analyse de données](https://gdr-iasis.cnrs.fr/reunions/transport-optimal-et-ses-applications-en-machine-learning-et-analyse-de-donnees/#:~:text=Le%20transport%20optimal%20(TO)%20est,la%20proximit%C3%A9%20entre%20d%C3%A9compositions%20successives.) - February 2025\
 *Scalable and consistent embedding of probability measures into Hilbert spaces via measure quantization.*
 [Slides](assets/slides_gdr.pdf)
