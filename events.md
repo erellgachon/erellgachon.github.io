@@ -4,6 +4,12 @@ title: Talks and events
 subtitle: 
 ---
 
+- [Mathematical Aspects of Data Science](https://mathsdata2025.github.io/) - Summer school at EPFL - September 2025\
+Presentation of a poster.
+- Workshop "Mathématiques de l'IA" at IMB - May 2025\
+*Optimal transport for flow cytometry data.*
+- Seminar talk for doctoral students at IMB - April 2025\
+*An introduction to optimal transport.*
 - Talk for the annual meeting of the PEPR PDE AI - March 2025\
 *Scalable and consistent embedding of probability measures into Hilbert spaces via measure quantization.*
 - Talk at [Transport optimal et ses applications en machine learning et analyse de données](https://gdr-iasis.cnrs.fr/reunions/transport-optimal-et-ses-applications-en-machine-learning-et-analyse-de-donnees/#:~:text=Le%20transport%20optimal%20(TO)%20est,la%20proximit%C3%A9%20entre%20d%C3%A9compositions%20successives.) - February 2025\
