@@ -4,6 +4,9 @@ title: Talks and events
 subtitle: 
 ---
 
+
+- Talk at [SMAI-MODE 2026](https://mode2026.sciencesconf.org/?lang=fr) - March 2026\
+*PCA of Probability Measures: Sparse and Dense Sampling Regimes*
 - [Mathematical Aspects of Data Science](https://mathsdata2025.github.io/) - Summer school at EPFL - September 2025\
 Presentation of a poster.
 - Workshop "Mathématiques de l'IA" at IMB - May 2025\
