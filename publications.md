@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 ---
 
-- **PCA of probability measures: Sparse and Dense sampling regimes.** Preprint\
+- **PCA of probability measures: Sparse and Dense sampling regimes.** ICML 2026\
 with [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/) and [Elsa Cazelles](https://www.irit.fr/~Elsa.Cazelles/)\
 [[arXiv]](https://www.arxiv.org/abs/2602.02190)
 
