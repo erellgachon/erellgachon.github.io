@@ -8,7 +8,7 @@ subtitle:
 with [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/) and [Elsa Cazelles](https://www.irit.fr/~Elsa.Cazelles/)\
 [[arXiv]](https://www.arxiv.org/abs/2602.02190)
 
-- **Scalable and consistent embedding of probability measures into Hilbert spaces via measure quantization.** Preprint\
+- **Scalable and consistent embedding of probability measures into Hilbert spaces via measure quantization.** Transactions on Machine Learning Research (TMLR)\
 with [Elsa Cazelles](https://www.irit.fr/~Elsa.Cazelles/) and [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/)\
 [[arXiv]](https://arxiv.org/abs/2502.04907)
 
