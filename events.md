@@ -4,7 +4,13 @@ title: Talks and events
 subtitle: 
 ---
 
-
+- International Conference on Machine Learning (ICML) - July 2026\
+*PCA of Probability Measures: Sparse and Dense Sampling Regimes* \
+Presentation of a poster.
+- Talk at [Curves and Surfaces 2026](https://cs2026.sciencesconf.org/) - June 2026\
+*PCA of Probability Measures: Sparse and Dense Sampling Regimes* 
+- Seminar talk at MIAT laboratory in Toulouse - May 2026\
+*PCA of Probability Measures: Sparse and Dense Sampling Regimes*
 - Talk at [SMAI-MODE 2026](https://mode2026.sciencesconf.org/?lang=fr) - March 2026\
 *PCA of Probability Measures: Sparse and Dense Sampling Regimes*
 - [Mathematical Aspects of Data Science](https://mathsdata2025.github.io/) - Summer school at EPFL - September 2025\
